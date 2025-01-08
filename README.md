@@ -1,4 +1,4 @@
-# Water-Quality-and-Potability
+# Water Quality and Potability
 
 ### Descripción del proyecto
 
